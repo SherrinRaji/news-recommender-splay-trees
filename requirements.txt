@@ -48,7 +48,7 @@ newspaper3k==0.2.8
 nltk==3.7
 notebook==6.4.10
 numpy==1.22.3
-oauthlib==3.2.0
+oauthlib==3.2.1
 packaging==21.3
 pandas==1.4.1
 pandocfilters==1.5.0
